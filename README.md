@@ -1,6 +1,8 @@
 # Angular Pipes Repository
 A repository of Angular pipes to help you transform data, filter data, change data types and more. I have created this repository for my own reference, but I am sure other Angular users will find it helpful too.
 
+Check out [Transforming Data Using Pipes](https://angular.io/guide/pipes) to learn more about Angular Pipes.
+
 # Angular Pipes
 
 Available pipes:
